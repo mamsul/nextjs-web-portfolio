@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import CloseIcon from "../../assets/icons/closeIcon";
+import CloseIcon from "../utils/CloseIcon";
 import Button from "../utils/Button";
 import Logo from "./Logo";
 import Navbar from "./Navbar";
